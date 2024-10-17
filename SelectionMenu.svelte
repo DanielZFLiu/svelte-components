@@ -1,6 +1,6 @@
 <script>
     import { createEventDispatcher, onDestroy, onMount } from 'svelte';
-	  import { fade } from 'svelte/transition';
+    import { fade } from 'svelte/transition';
 
     /** @type {string[]} */
     export let menuItems = [];
